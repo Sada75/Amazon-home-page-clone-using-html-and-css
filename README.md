@@ -1,1 +1,1 @@
-This is my first project with html and css. I built amazon home page clone using html and css. 
+This is my initial project utilizing HTML and CSS, where I developed a clone of the Amazon homepage.
